@@ -7,7 +7,7 @@
         public string Prezime { get; set; }
         public string Email { get; set; }
         public string BrojTelefona { get; set; }
-        public string? Slika { get; set; }
+        public byte[]? Slika { get; set; }
 
     }
 }

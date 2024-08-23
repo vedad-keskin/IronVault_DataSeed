@@ -9,7 +9,7 @@ namespace GMS.Entities.Models
         public float Cijena { get; set; }
         public float Gramaza { get; set; }
         public string Opis { get; set; }
-        public string? Slika { get; set; }
+        public byte[]? Slika { get; set; }
         public string? StateMachine { get; set; }
         public double? ProsjecnaOcjena { get; set; }
 

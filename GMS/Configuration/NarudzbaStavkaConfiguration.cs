@@ -78,7 +78,30 @@ namespace GMS.Configuration
                     SuplementID = 8,
                     Kolicina = 1,
                 }
+                ,
+           new Narudzba_Stavka
+           {
+               Narudzba_StavkaID = 10,
+               NarudzbaID = 6,
+               SuplementID = 20,
+               Kolicina = 6
+           }
+           ,
+           new Narudzba_Stavka
+           {
+               Narudzba_StavkaID = 11,
+               NarudzbaID = 6,
+               SuplementID = 21,
+               Kolicina = 1
+           }
+
             );
+
+           
+
+
+
+
         }
     }
 }

@@ -56,6 +56,17 @@ namespace GMS.Configuration
                     Otkazano = false,
                     Status = false
                 }
+                ,
+        new Narudzba
+        {
+            NarudzbaID = 6,
+            KorisnikID = 3,
+            Sifra = "SIF-000-006",
+            DatumVrijemeNarudzbe = new DateTime(2023, 11, 08, 9, 15, 0),
+            Otkazano = false,
+            Status = false
+        }
+
             );
         }
     }

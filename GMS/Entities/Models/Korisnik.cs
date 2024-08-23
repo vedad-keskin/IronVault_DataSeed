@@ -15,7 +15,7 @@ namespace GMS.Entities.Models
         public string LozinkaHash { get; set; }
         public string LozinkaSalt { get; set; } 
 
-        public string? Slika { get; set; }
+        public byte[]? Slika { get; set; }
 
         public string BrojTelefona { get; set; }
         public float Visina { get; set; }
