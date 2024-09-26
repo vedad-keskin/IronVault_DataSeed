@@ -14,7 +14,7 @@ namespace GMS.Configuration
                     TrenerID = 1,
                     Ime = "Kadir",
                     Prezime = "Keskin",
-                    Email = "vedad.keskin98@gmail.com",
+                    Email = "ironvault.test@gmail.com",
                     BrojTelefona = "0644076290",
                     Slika = ConvertImageToByteArray("wwwroot", "1tre.jpg")
 
@@ -26,7 +26,7 @@ namespace GMS.Configuration
                     TrenerID = 2,
                     Ime = "Azur",
                     Prezime = "Kahriman",
-                    Email = "vedad.keskin98@gmail.com",
+                    Email = "ironvault.test@gmail.com",
                     BrojTelefona = "0644076290",
                     Slika = ConvertImageToByteArray("wwwroot", "2tre.jpg")
                 }

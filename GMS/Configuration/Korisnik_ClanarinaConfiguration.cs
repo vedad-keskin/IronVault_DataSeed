@@ -123,7 +123,42 @@ namespace GMS.Configuration
                     DatumUplate = new DateTime(2024, 08, 01, 7, 15, 0),
                     DatumIsteka = new DateTime(2024, 09, 01, 7, 15, 0)
                 }
-
+                  ,
+                new Korisnik_Clanarina
+                {
+                    Korisnik_ClanarinaID = 14,
+                    KorisnikID = 1,
+                    ClanarinaID = 2,
+                    DatumUplate = new DateTime(2024, 08, 01, 7, 15, 0),
+                    DatumIsteka = new DateTime(2024, 09, 01, 7, 15, 0)
+                }
+                  ,
+                new Korisnik_Clanarina
+                {
+                    Korisnik_ClanarinaID = 15,
+                    KorisnikID = 1,
+                    ClanarinaID = 2,
+                    DatumUplate = new DateTime(2024, 09, 01, 7, 15, 0),
+                    DatumIsteka = new DateTime(2024, 10, 01, 7, 15, 0)
+                }
+                  ,
+                new Korisnik_Clanarina
+                {
+                    Korisnik_ClanarinaID = 16,
+                    KorisnikID = 1,
+                    ClanarinaID = 2,
+                    DatumUplate = new DateTime(2024, 10, 01, 7, 15, 0),
+                    DatumIsteka = new DateTime(2024, 11, 01, 7, 15, 0)
+                }
+                ,
+                new Korisnik_Clanarina
+                {
+                    Korisnik_ClanarinaID = 17,
+                    KorisnikID = 2,
+                    ClanarinaID = 2,
+                    DatumUplate = new DateTime(2024, 09, 01, 7, 15, 0),
+                    DatumIsteka = new DateTime(2024, 10, 01, 7, 15, 0)
+                }
 
                 );
         }

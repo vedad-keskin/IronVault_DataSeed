@@ -15,7 +15,7 @@ namespace GMS.Configuration
                     Ime = "Vedad",
                     Prezime = "Keskin",
                     KorisnickoIme = "desktop",
-                    Email = "vedad.keskin98@gmail.com",
+                    Email = "ironvault.test@gmail.com",
                     LozinkaHash = "/sQWOxvpzqUJK7grzQGsN5yX0LI=",
                     LozinkaSalt = "BmclnyHeY8muqOn8CgWyCQ==",
                     BrojTelefona = "0644076290",
@@ -25,8 +25,9 @@ namespace GMS.Configuration
                     VrijemeUTeretani = "0 dana, 21 sati i 0 minuta",
                     SpolID = 1,
                     GradID = 18,
-                    Slika = ConvertImageToByteArray("wwwroot", "1kor.jpg")
-
+                    Slika = ConvertImageToByteArray("wwwroot", "1kor.jpg"),
+                    SatiUTeretani = 21
+                    
 
                 },
 
@@ -37,7 +38,7 @@ namespace GMS.Configuration
                     Ime = "Amel",
                     Prezime = "Musić",
                     KorisnickoIme = "mobile",
-                    Email = "vedad.keskin98@gmail.com",
+                    Email = "ironvault.test@gmail.com",
                     LozinkaHash = "BsBZhuf6khxcsMiKOfkf8i6YCFY=",
                     LozinkaSalt = "MsAOOfOrEjMn6UE18MK0DQ==",
                     BrojTelefona = "062709689",
@@ -47,8 +48,8 @@ namespace GMS.Configuration
                     VrijemeUTeretani = "0 dana, 12 sati i 0 minuta",
                     SpolID = 1,
                     GradID = 33,
-                    Slika = ConvertImageToByteArray("wwwroot", "2kor.jpg")
-
+                    Slika = ConvertImageToByteArray("wwwroot", "2kor.jpg"),
+                    SatiUTeretani = 12
 
                 }
                 ,
@@ -60,7 +61,7 @@ namespace GMS.Configuration
                     Ime = "Denis",
                     Prezime = "Mušić",
                     KorisnickoIme = "denism",
-                    Email = "vedad.keskin98@gmail.com",
+                    Email = "ironvault.test@gmail.com",
                     LozinkaHash = "2Kfy1C0XBFtOApv4hlUaEQH4aqs=",
                     LozinkaSalt = "QLSAf12F9XkD+4ZLEFZz+w==",
                     BrojTelefona = "061000000",
@@ -69,34 +70,12 @@ namespace GMS.Configuration
                     Razina = 1,
                     SpolID = 1,
                     GradID = 18,
-                    Slika = ConvertImageToByteArray("wwwroot", "3kor.jpg")
-
-
-
-                }
-                ,
-
-                new Korisnik
-                {
-
-                    KorisnikID = 4,
-                    Ime = "Elmir",
-                    Prezime = "Babović",
-                    KorisnickoIme = "elmirb",
-                    Email = "vedad.keskin98@gmail.com",
-                    LozinkaHash = "1wrfyYURG83rXcpYOK7LxbASzxY=",
-                    LozinkaSalt = "gu5g9kJouJlB19/DNtCtaw==",
-                    BrojTelefona = "062000000",
-                    Visina = 189,
-                    Tezina = 86,
-                    Razina = 1,
-                    SpolID = 1,
-                    GradID = 34,
-                    Slika = ConvertImageToByteArray("wwwroot", "4kor.jpg")
-
+                    Slika = ConvertImageToByteArray("wwwroot", "3kor.jpg"),
+                    SatiUTeretani = 0
 
 
                 }
+    
               
 
 

@@ -14,7 +14,7 @@ namespace GMS.Configuration
                   NutricionistID = 1,
                   Ime = "Marijana",
                   Prezime = "Zubac",
-                  Email = "vedad.keskin98@gmail.com",
+                  Email = "ironvault.test@gmail.com",
                   BrojTelefona = "062709689",
                   Slika = ConvertImageToByteArray("wwwroot", "1nut.jpg")
 
@@ -26,7 +26,7 @@ namespace GMS.Configuration
                     NutricionistID = 2,
                     Ime = "Amela",
                     Prezime = "Ivković",
-                    Email = "vedad.keskin98@gmail.com",
+                    Email = "ironvault.test@gmail.com",
                     BrojTelefona = "062709689",
                     Slika = ConvertImageToByteArray("wwwroot", "2nut.jpg")
 

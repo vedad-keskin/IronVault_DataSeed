@@ -52,7 +52,7 @@ namespace GMS.Configuration
                     NarudzbaID = 5,
                     KorisnikID = 1,
                     Sifra = "SIF-000-005",
-                    DatumVrijemeNarudzbe = new DateTime(2023, 11, 07, 9, 15, 0),
+                    DatumVrijemeNarudzbe = new DateTime(2024, 10, 07, 9, 15, 0),
                     Otkazano = false,
                     Status = false
                 }
@@ -62,7 +62,7 @@ namespace GMS.Configuration
             NarudzbaID = 6,
             KorisnikID = 3,
             Sifra = "SIF-000-006",
-            DatumVrijemeNarudzbe = new DateTime(2024, 08, 08, 9, 15, 0),
+            DatumVrijemeNarudzbe = new DateTime(2024, 10, 08, 9, 15, 0),
             Otkazano = false,
             Status = false
         }

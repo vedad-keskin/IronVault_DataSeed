@@ -21,7 +21,7 @@ namespace GMS.Configuration
                 new Recenzija
                 {
                     RecenzijaID = 2,
-                    KorisnikID = 2,
+                    KorisnikID = 3,
                     SuplementID = 1,
                     Ocjena = 4,
                     Opis = "Dobar proizvod, samo je dostava trajala duže od dogovorenog."
@@ -40,7 +40,7 @@ namespace GMS.Configuration
                 new Recenzija
                 {
                     RecenzijaID = 4,
-                    KorisnikID = 2,
+                    KorisnikID = 3,
                     SuplementID = 2,
                     Ocjena = 2,
                     Opis = "Loš ukus."
@@ -81,81 +81,9 @@ namespace GMS.Configuration
                     Ocjena = 4,
                     Opis = "Jako dobar."
 
-                },
-                new Recenzija
-                {
-                    RecenzijaID = 9,
-                    KorisnikID = 2,
-                    SuplementID = 7,
-                    Ocjena = 5,
-                    Opis = "Perfektan proizvod."
-
-                },
-                new Recenzija
-                {
-                    RecenzijaID = 10,
-                    KorisnikID = 3,
-                    SuplementID = 7,
-                    Ocjena = 4,
-                    Opis = "Jako dobar proizvod."
-
-                },
-                new Recenzija
-                {
-                    RecenzijaID = 11,
-                    KorisnikID = 1,
-                    SuplementID = 8,
-                    Ocjena = 3,
-                    Opis = "Dobar ukus."
-
-                },
-                new Recenzija
-                {
-                    RecenzijaID = 12,
-                    KorisnikID = 2,
-                    SuplementID = 8,
-                    Ocjena = 4,
-                    Opis = "Sve pohvale."
-
-                },
-                new Recenzija
-                {
-                    RecenzijaID = 13,
-                    KorisnikID = 1,
-                    SuplementID = 9,
-                    Ocjena = 5,
-                    Opis = "Vrhunski suplement."
-
-                },
-                new Recenzija
-                {
-                    RecenzijaID = 14,
-                    KorisnikID = 1,
-                    SuplementID = 10,
-                    Ocjena = 5,
-                    Opis = "Sve preporuke."
-
                 }
-                ,
-                new Recenzija
-                {
-                    RecenzijaID = 15,
-                    KorisnikID = 3,
-                    SuplementID = 1,
-                    Ocjena = 4,
-                    Opis = "Izvrstan proizvod, okus mi se nije baš najviše dopao, idući put ću probati okus sa jagodom."
+               
 
-                }
-                ,
-                new Recenzija
-                {
-                    RecenzijaID = 16,
-                    KorisnikID = 4,
-                    SuplementID = 1,
-                    Ocjena = 5,
-                    Opis = "Jako mi se dopalo, osjetio sam promijene nakon sedmicu dana."
-
-                }
 
 
 

@@ -43,15 +43,7 @@ namespace GMS.Configuration
                     KorisnikID = 3,
                     UlogaID = 2,
                     DatumIzmjene = new DateTime(2023, 10, 01, 7, 15, 0),
-                },
-                new Korisnik_Uloga
-                {
-                    Korisnik_UlogaID = 6,
-                    KorisnikID = 4,
-                    UlogaID = 2,
-                    DatumIzmjene = new DateTime(2023, 10, 01, 7, 15, 0),
                 }
-
 
                 );
         }

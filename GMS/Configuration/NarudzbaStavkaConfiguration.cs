@@ -35,7 +35,7 @@ namespace GMS.Configuration
                 {
                     Narudzba_StavkaID = 4,
                     NarudzbaID = 2,
-                    SuplementID = 9,
+                    SuplementID = 4,
                     Kolicina = 3,
                 }
                 ,
@@ -43,7 +43,7 @@ namespace GMS.Configuration
                 {
                     Narudzba_StavkaID = 5,
                     NarudzbaID = 3,
-                    SuplementID = 11,
+                    SuplementID = 8,
                     Kolicina = 2,
                 }
                 ,
@@ -51,7 +51,7 @@ namespace GMS.Configuration
                 {
                     Narudzba_StavkaID = 6,
                     NarudzbaID = 4,
-                    SuplementID = 16,
+                    SuplementID = 3,
                     Kolicina = 1,
                 }
                 ,
@@ -59,7 +59,7 @@ namespace GMS.Configuration
                 {
                     Narudzba_StavkaID = 7,
                     NarudzbaID = 4,
-                    SuplementID = 7,
+                    SuplementID = 8,
                     Kolicina = 1,
                 }
                 ,
@@ -67,7 +67,7 @@ namespace GMS.Configuration
                 {
                     Narudzba_StavkaID = 8, 
                     NarudzbaID = 5,
-                    SuplementID = 2,
+                    SuplementID = 8,
                     Kolicina = 2,
                 }
                 ,
@@ -75,7 +75,7 @@ namespace GMS.Configuration
                 {
                     Narudzba_StavkaID = 9,
                     NarudzbaID = 5,
-                    SuplementID = 8,
+                    SuplementID = 7,
                     Kolicina = 1,
                 }
                 ,
@@ -83,7 +83,7 @@ namespace GMS.Configuration
            {
                Narudzba_StavkaID = 10,
                NarudzbaID = 6,
-               SuplementID = 20,
+               SuplementID = 8,
                Kolicina = 6
            }
            ,
@@ -91,7 +91,7 @@ namespace GMS.Configuration
            {
                Narudzba_StavkaID = 11,
                NarudzbaID = 6,
-               SuplementID = 21,
+               SuplementID = 2,
                Kolicina = 1
            }
 

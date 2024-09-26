@@ -25,6 +25,8 @@ namespace GMS.Entities.Models
 
         public string? VrijemeUTeretani { get; set; }
 
+        public int? SatiUTeretani { get; set; }
+
 
         [ForeignKey(nameof(Grad))]
         public int GradID { get; set; }
