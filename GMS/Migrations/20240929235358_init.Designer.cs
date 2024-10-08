@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace GMS.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240926182650_init")]
+    [Migration("20240929235358_init")]
     partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -1252,12 +1252,6 @@ namespace GMS.Migrations
                         new
                         {
                             PrisustvoID = 15,
-                            DatumVrijemeUlaska = new DateTime(2024, 9, 22, 21, 22, 0, 0, DateTimeKind.Unspecified),
-                            KorisnikID = 2
-                        },
-                        new
-                        {
-                            PrisustvoID = 16,
                             DatumVrijemeUlaska = new DateTime(2024, 9, 22, 17, 12, 0, 0, DateTimeKind.Unspecified),
                             KorisnikID = 3
                         });

@@ -732,11 +732,7 @@ namespace GMS.Migrations
             migrationBuilder.InsertData(
                 table: "Prisustvo",
                 columns: new[] { "PrisustvoID", "DatumVrijemeIzlaska", "DatumVrijemeUlaska", "KorisnikID" },
-                values: new object[,]
-                {
-                    { 15, null, new DateTime(2024, 9, 22, 21, 22, 0, 0, DateTimeKind.Unspecified), 2 },
-                    { 16, null, new DateTime(2024, 9, 22, 17, 12, 0, 0, DateTimeKind.Unspecified), 3 }
-                });
+                values: new object[] { 15, null, new DateTime(2024, 9, 22, 17, 12, 0, 0, DateTimeKind.Unspecified), 3 });
 
             migrationBuilder.InsertData(
                 table: "Recenzija",

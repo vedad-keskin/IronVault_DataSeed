@@ -117,17 +117,11 @@ namespace GMS.Configuration
                      KorisnikID = 1,
                      DatumVrijemeUlaska = new DateTime(2024, 09, 22, 20, 52, 0),
                  }
+             
                  ,
                  new Prisustvo
                  {
                      PrisustvoID = 15,
-                     KorisnikID = 2,
-                     DatumVrijemeUlaska = new DateTime(2024, 09, 22, 21, 22, 0),
-                 }
-                 ,
-                 new Prisustvo
-                 {
-                     PrisustvoID = 16,
                      KorisnikID = 3,
                      DatumVrijemeUlaska = new DateTime(2024, 09, 22, 17, 12, 0),
                  }
